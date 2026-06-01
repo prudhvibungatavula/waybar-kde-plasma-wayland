@@ -4,6 +4,9 @@
 ```
 <img width="2558" height="64" alt="maybar all on" src="https://github.com/user-attachments/assets/3299b5f8-742b-4492-831d-fb6cdbf845e9" />
 
+
+![Uploading main screen.png…]()
+
 ---
 
 ## What is this?
