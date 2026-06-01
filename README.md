@@ -40,6 +40,8 @@ socrates-KDE/
 
 <img width="2559" height="1439" alt="2026-06-01_15-34" src="https://github.com/user-attachments/assets/0b880326-1ada-4739-b325-500873c9ab0b" />
 
+<img width="2559" height="62" alt="maybar all off" src="https://github.com/user-attachments/assets/c0154d46-cdca-4c7a-9f88-9f07834469a8" />
+
 <img width="2558" height="64" alt="maybar all on" src="https://github.com/user-attachments/assets/1d476eae-c8d1-4387-9837-2ec4ef371b66" />
 
 
